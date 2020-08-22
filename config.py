@@ -1,0 +1,1 @@
+password = 'postgresql://postgres:postgres@localhost:5432/etlproject'
