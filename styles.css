@@ -48,7 +48,10 @@ img:active {
   border: 3px solid teal;
   border-color: teal !important;
 }
-
+.table {
+  margin-left: auto;
+  margin-right: auto;
+}
 .col-lg-1 {
 background: lightgray
 }
