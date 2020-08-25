@@ -233,7 +233,7 @@ Year ,Month,State,County,Unemployment_Rate
 2020,June,CA,Cherry Valley CDP,9.2
 2020,June,CA,Chester CDP,11.5
 2020,June,CA,Chico city,12.6
-2020,June,CA,Chilcoot Vinton CDP,10.0
+2020,June,CA,Chilcoot Vinton CDP,10
 2020,June,CA,China Lake Acres CDP,15.1
 2020,June,CA,Chinese Camp CDP,0
 2020,June,CA,Chino city,14.3
@@ -1254,7 +1254,7 @@ Year ,Month,State,County,Unemployment_Rate
 2020,June,CA,Cherry Valley CDP,8.6
 2020,June,CA,Chester CDP,9.5
 2020,June,CA,Chico city,11.4
-2020,June,CA,Chilcoot Vinton CDP,10.0
+2020,June,CA,Chilcoot Vinton CDP,10
 2020,June,CA,China Lake Acres CDP,14.2
 2020,June,CA,Chinese Camp CDP,0
 2020,June,CA,Chino city,13
@@ -2138,81 +2138,69 @@ Year ,Month,State,County,Unemployment_Rate
 2020,June,FL,Wakulla County,5.6
 2020,June,FL,Walton County,6.8
 2020,June,FL,Washington County,6.8
-2020,June,FL,,
 2020,June,FL,Florida (Not Seasonally Adjusted),10.5
 2020,June,FL,Florida (Seasonally Adjusted),10.3
-2020,June,FL,,
 2020,June,FL,United States (Not Seasonally Adjusted),11.2
 2020,June,FL,United States (Seasonally Adjusted),11.1
-2020,June,NY,Hamilton County,7.70
-2020,June,NY,Chenango County,8.40
-2020,June,NY,Yates County,8.50
-2020,June,NY,Columbia County,8.80
-2020,June,NY,Tompkins County,8.90
-2020,June,NY,,
-2020,June,NY,Delaware County,9.20
-2020,June,NY,Lewis County,9.20
-2020,June,NY,Wyoming County,9.20
-2020,June,NY,Otsego County,9.30
-2020,June,NY,Schoharie County,9.30
-2020,June,NY,,
-2020,June,NY,Livingston County,9.50
-2020,June,NY,Genesee County,9.60
-2020,June,NY,Washington County,9.80
-2020,June,NY,Wayne County,9.80
-2020,June,NY,Herkimer County,9.90
-2020,June,NY,,
-2020,June,NY,Rensselaer County,9.90
-2020,June,NY,Ontario County,10.20
-2020,June,NY,Saratoga County,10.20
-2020,June,NY,Clinton County,10.30
-2020,June,NY,Cortland County,10.30
-2020,June,NY,,
-2020,June,NY,Tioga County,10.30
-2020,June,NY,Albany County,10.40
-2020,June,NY,Essex County,10.50
-2020,June,NY,Allegany County,10.60
-2020,June,NY,Cayuga County,10.60
-2020,June,NY,,
-2020,June,NY,Madison County,10.60
-2020,June,NY,St. Lawrence County,10.70
-2020,June,NY,Oneida County,11.00
-2020,June,NY,Orleans County,11.00
-2020,June,NY,Seneca County,11.00
-2020,June,NY,Franklin County,11.10
-2020,June,NY,Schuyler County,11.10
-2020,June,NY,Steuben County,11.10
-2020,June,NY,Chautauqua County,11.20
-2020,June,NY,Jefferson County,11.20
-2020,June,NY,Putnam County,11.20
-2020,June,NY,,
-2020,June,NY,Broome County,11.30
-2020,June,NY,Fulton County,11.30
-2020,June,NY,Ulster County,11.30
-2020,June,NY,Dutchess County,11.50
-2020,June,NY,Greene County,11.50
-2020,June,NY,,
-2020,June,NY,Montgomery County,11.60
-2020,June,NY,Warren County,11.60
-2020,June,NY,Schenectady County,11.70
-2020,June,NY,Oswego County,11.80
-2020,June,NY,Chemung County,11.90
-2020,June,NY,,
-2020,June,NY,Monroe County,11.90
-2020,June,NY,Onondaga County,12.10
-2020,June,NY,Rockland County,12.10
-2020,June,NY,Sullivan County,12.20
-2020,June,NY,Westchester County,12.50
-2020,June,NY,,
-2020,June,NY,Orange County,12.70
-2020,June,NY,Cattaraugus County,12.90
-2020,June,NY,Suffolk County,12.90
-2020,June,NY,Nassau County,13.00
-2020,June,NY,Erie County,13.50
-2020,June,NY,,
-2020,June,NY,Niagara County,14.60
-2020,June,NY,New York County,16.00
-2020,June,NY,Richmond County,18.10
-2020,June,NY,Kings County,20.50
-2020,June,NY,Queens County,21.80
-2020,June,NY,Bronx County,24.70
+2020,June,NY,Hamilton County,7.7
+2020,June,NY,Chenango County,8.4
+2020,June,NY,Yates County,8.5
+2020,June,NY,Columbia County,8.8
+2020,June,NY,Tompkins County,8.9
+2020,June,NY,Delaware County,9.2
+2020,June,NY,Lewis County,9.2
+2020,June,NY,Wyoming County,9.2
+2020,June,NY,Otsego County,9.3
+2020,June,NY,Schoharie County,9.3
+2020,June,NY,Livingston County,9.5
+2020,June,NY,Genesee County,9.6
+2020,June,NY,Washington County,9.8
+2020,June,NY,Wayne County,9.8
+2020,June,NY,Herkimer County,9.9
+2020,June,NY,Rensselaer County,9.9
+2020,June,NY,Ontario County,10.2
+2020,June,NY,Saratoga County,10.2
+2020,June,NY,Clinton County,10.3
+2020,June,NY,Cortland County,10.3
+2020,June,NY,Tioga County,10.3
+2020,June,NY,Albany County,10.4
+2020,June,NY,Essex County,10.5
+2020,June,NY,Allegany County,10.6
+2020,June,NY,Cayuga County,10.6
+2020,June,NY,Madison County,10.6
+2020,June,NY,St. Lawrence County,10.7
+2020,June,NY,Oneida County,11
+2020,June,NY,Orleans County,11
+2020,June,NY,Seneca County,11
+2020,June,NY,Franklin County,11.1
+2020,June,NY,Schuyler County,11.1
+2020,June,NY,Steuben County,11.1
+2020,June,NY,Chautauqua County,11.2
+2020,June,NY,Jefferson County,11.2
+2020,June,NY,Putnam County,11.2
+2020,June,NY,Broome County,11.3
+2020,June,NY,Fulton County,11.3
+2020,June,NY,Ulster County,11.3
+2020,June,NY,Dutchess County,11.5
+2020,June,NY,Greene County,11.5
+2020,June,NY,Montgomery County,11.6
+2020,June,NY,Warren County,11.6
+2020,June,NY,Schenectady County,11.7
+2020,June,NY,Oswego County,11.8
+2020,June,NY,Chemung County,11.9
+2020,June,NY,Monroe County,11.9
+2020,June,NY,Onondaga County,12.1
+2020,June,NY,Rockland County,12.1
+2020,June,NY,Sullivan County,12.2
+2020,June,NY,Westchester County,12.5
+2020,June,NY,Orange County,12.7
+2020,June,NY,Cattaraugus County,12.9
+2020,June,NY,Suffolk County,12.9
+2020,June,NY,Nassau County,13
+2020,June,NY,Erie County,13.5
+2020,June,NY,Niagara County,14.6
+2020,June,NY,New York County,16
+2020,June,NY,Richmond County,18.1
+2020,June,NY,Kings County,20.5
+2020,June,NY,Queens County,21.8
+2020,June,NY,Bronx County,24.7

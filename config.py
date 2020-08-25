@@ -1,1 +1,0 @@
-password = 'sqlite://postgres:postgres@localhost:5432/etlproject'

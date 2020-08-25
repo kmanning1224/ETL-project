@@ -52,7 +52,7 @@ background: lightgray
   color: white;
 }
 .display-4 {
-  color: teal;
+  color: rgb(97, 97, 97);
   font-weight: bold;
   margin:15px
 }
