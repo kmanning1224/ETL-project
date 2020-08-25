@@ -3,9 +3,16 @@ body {
 }
 p {
   margin: 25px;
+  font-size:20px;
+  text-align:justify;
 }
 ul {
   list-style-position: inside;
+  font-size:20px;
+}
+ol {
+  list-style-position: inside;
+  font-size:20px;
 }
 h1 {
   color: teal;
